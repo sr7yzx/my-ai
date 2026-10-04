@@ -1,0 +1,11 @@
+{
+  "name": "Radhe Krishna AI",
+  "description": "Personal Anime Virtual AI Agent for Suraj Rajput with real-time voice, persistent memory, automations, computer use, and Google Workspace integrations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
